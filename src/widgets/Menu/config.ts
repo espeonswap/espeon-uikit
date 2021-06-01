@@ -143,12 +143,12 @@ export const socials = [
   {
     label: "Telegram",
     icon: "TelegramIcon",
-    href: "https://t.me/abrakadabrafinance",
+    href: "https://t.me/EspeonFinanceBSC",
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/AbraKadabraBSC",
+    href: "https://twitter.com/EspeonFinance",
   },
 ];
 
